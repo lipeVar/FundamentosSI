@@ -1,4 +1,4 @@
-# Glossário de [Nome da Disciplina]
+# Glossário de [Fundamentos  SI]
 
 ## A
 - **API (Application Programming Interface):** Conjunto de normas que possibilita a comunicação entre plataformas.
