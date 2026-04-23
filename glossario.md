@@ -79,3 +79,6 @@ O Modelo TCP/IP é um conjunto de protocolosque define como os dispositivos seco
   - Para evitar que um servidor fique travado esperando por conexões falsas, utilizam-se técnicas de gerenciamento de tráfego.
 ## Filtros contra IP Spoofing
   - Para impedir que atacantes mascarem sua identidade usando IPs falsos, as redes devem ser configuradas para não aceitar tráfego incoerente.
+
+
+##Aula 8 
