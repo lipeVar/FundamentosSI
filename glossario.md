@@ -82,3 +82,10 @@ O Modelo TCP/IP é um conjunto de protocolosque define como os dispositivos seco
 
 
 ##Aula 8 
+ATIVIDADE:
+    - 1 tecnica vs metodologia
+    - 2 como integrar trello com github
+
+# 1. O MÉTODO é o como fazer, é o planejamento e o caminho estruturado de como devensolver a tarefa e a TÉCNICA é a aplicação pratica do processo que usa a metodologia para realizar o passo a passo.
+
+# 2. É possivel fazer a integração usando uma ferramenta do trello chamada power-up que vincula o trello à sua conta github, assim permitindo que possa adicionar commits e pull-requests aos cartões do trello.
