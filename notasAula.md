@@ -9,12 +9,12 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
         - Foi Criado pela Toyota: com postits
         - fazer/TO DO - fazendo/DOING - feito/DONE
 
-Aula 6
+## Aula 6
 
     Internet das coisas: todo lugar, todo momento e conectada
     Sistemas Pervasivos versus Sistemas Ubíquos
 
-Aula 5
+## Aula 5
 
     Tarefa avaliativa
     Assunto: Tipos de Sistemas de Informação
@@ -30,7 +30,7 @@ Aula 5
     Minha Agenda UFN
     Sistema de Imposto de Renda do Governo Brasileiro
 
-Aula 4
+## Aula 4
 
     Disucussão da tarefa sobre modelos de arquiteturais
     Computação ou processamento
@@ -59,20 +59,20 @@ Aula 4
     FaaS
     IaaS
 
-Aula 3
+## Aula 3
 
     apresentação da Oficina de Git -https://github.com/alexandrezamberlan/oficinaGit
     Apresentação, discussão e 1o trabalhho avaliado
         Cada aluno deve cria no seu repositório da disciplina um arquivo chamado 02-glossario.md. Nesse arquivo, será um vocabulário de palavras e/ou expressões estudadas na disciplina.
 
-Aula 2
+## Aula 2
 
     Apresentação e discussão de ferramenta e ambiente GITHUB
         criação de conta
         criação de repositório
         objetivos
 
-Aula 1
+## Aula 1
 
     Apresentação do plano de aula
     Apresentação e discussão conceitos básicos:
