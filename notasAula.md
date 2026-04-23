@@ -1,6 +1,14 @@
 Notas de aula da disciplina
 
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
+## Aula 7
+    - Boas Pratica no desenvolvimento de software em grupo ou equipe
+    - Sistema de versionamento de Codigo: Git + Github
+        - controla versões, bachups e equipes de desenvolvimento coletivo
+    - Sistema KanBan: TECNICA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES
+        - Foi Criado pela Toyota: com postits
+        - fazer/TO DO - fazendo/DOING - feito/DONE
+
 Aula 6
 
     Internet das coisas: todo lugar, todo momento e conectada
