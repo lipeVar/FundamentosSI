@@ -86,6 +86,22 @@ ATIVIDADE:
     - 1 tecnica vs metodologia
     - 2 como integrar trello com github
 
-# 1. O MÉTODO é o como fazer, é o planejamento e o caminho estruturado de como devensolver a tarefa e a TÉCNICA é a aplicação pratica do processo que usa a metodologia para realizar o passo a passo.
+ 1. O MÉTODO é o como fazer, é o planejamento e o caminho estruturado de como devensolver a tarefa e a TÉCNICA é a aplicação pratica do processo que usa a metodologia para realizar o passo a passo.
 
-# 2. É possivel fazer a integração usando uma ferramenta do trello chamada power-up que vincula o trello à sua conta github, assim permitindo que possa adicionar commits e pull-requests aos cartões do trello.
+ 2. É possivel fazer a integração usando uma ferramenta do trello chamada power-up que vincula o trello à sua conta github, assim permitindo que possa adicionar commits e pull-requests aos cartões do trello.
+
+
+##Aula 21/05
+
+VirtualMachine:
+    É um ambiente virtual que emula um computador completo, geralmente usado para fazer testes de segurança e sistemas e para criar servidores para desenvolvimento de software.
+    Exemplo: Oracle VM que é gratuito e de codigo aberto e VMware que é mais robusto e profissional.
+
+VirtualEnvironment
+    É um diretorio isolado que contém uma versão especifica de uma linguagem de programação e um conjunto proprio de bibliotecas e dependencias. Evita conflitos e permite que dois projetos usem versões diferentes de uma biblioteca e evita "poluir" o sistema operacional com pacotes desnecessários.
+    Exemplo: Python(venv e virtualenv)
+        Criar: python -m venv .venvAtivar 
+        (Windows): .venv\Scripts\activateAtivar 
+        (Linux/macOS): source .venv/bin/activate
+    Node.js
+        No Node.js, as dependências ficam nativamente isoladas em cada projeto dentro da pasta node_modules. No entanto, para isolar a própria versão do Node.js, utiliza-se ferramentas chamadas de version managers, que funcionam de forma semelhante a ambientes virtuais.NVM (Node Version Manager): Permite alternar entre diferentes versões do Node.js em um projeto específico.Nodeenv: Uma ferramenta que integra ambientes virtuais estilo Python para criar um ecossistema isolado também no Node.
